@@ -15,13 +15,18 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=148&color=db0a0a">
  </div>
   
-  
   ##
+  
+<div>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcos-pontes&show_icons=true&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-pontes&layout=compact&theme=tokyonight"/>
+</div>
+
+ ##
  
 <div> 
  <a href="https://www.instagram.com/alemaowindheck/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:socrampontes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-pontes-a8aa61253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <!--  <a href="https://api.whatsapp.com/send?phone=5561994448427&text=Contato%20via%20GitHub" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%230077B15?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  -->
-  
 </div>
